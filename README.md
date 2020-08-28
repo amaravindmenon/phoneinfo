@@ -2,7 +2,7 @@
 
 How to
 
-Type: python3 phoneinfo.py
+Type: python3 phoneproject.py
 
 
 A simple multi inheritance project 
