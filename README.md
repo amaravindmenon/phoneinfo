@@ -1,6 +1,7 @@
 # phoneinfo
 
-How to
+ Usage
+-------
 
 Type: python3 phoneproject.py
 
