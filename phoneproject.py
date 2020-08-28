@@ -58,6 +58,10 @@ class OPPO(Camera,fingerprint,Bluetooth):
         fingerprint.backfinger(self)
 
 class phone(Samsung,MI,OPPO):
+    
+     def __init__(self):
+
+        print("A PROJECT BY ARAVIND MENON")
 
     def get_phone(self,a):
         if (a == 1):
