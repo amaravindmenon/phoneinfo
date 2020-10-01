@@ -3,7 +3,7 @@
  Usage
 -------
 
-Type: python3 phoneproject.py
+Type: python3 phoneproject.py using oops
 
 
 A simple multi inheritance project 
